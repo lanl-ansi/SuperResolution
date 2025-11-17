@@ -4,7 +4,6 @@ using StatsBase
 using JSON
 using FFTW
 using Distributions
-using CSV
 using DataFrames
 using Plots
 
