@@ -6,8 +6,6 @@ using Plots
 using JuMP
 using Ipopt
 using FFTW
-using JLD2
-
 using Graphs
 using GraphPlot 
 
